@@ -10,3 +10,11 @@
     <script src="/public/assets/js/app.js"></script>
 </head>
 <body>
+
+    <nav>
+        <ul>
+            <li><a href="/index.php">Home</a></li>
+            <li><a href="/contact.php">Contact</a></li>
+            <li><a href="/login.php">Connextion/Inscription</a></li>
+        </ul>
+    </nav>
